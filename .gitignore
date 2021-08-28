@@ -194,6 +194,8 @@ publish/
 # in these scripts will be unencrypted
 PublishScripts/
 
+# NuGet Config
+nuget.config
 # NuGet Packages
 *.nupkg
 # NuGet Symbol Packages

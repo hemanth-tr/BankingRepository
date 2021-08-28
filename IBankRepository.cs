@@ -1,0 +1,7 @@
+﻿namespace BankingRepository
+{
+	interface IBankRepository
+	{
+
+	}
+}
